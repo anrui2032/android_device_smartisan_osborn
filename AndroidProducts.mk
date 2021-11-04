@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/arrow_osborn.mk
+
+COMMON_LUNCH_CHOICES := \
+    arrow_osborn-user \
+    arrow_osborn-userdebug \
+    arrow_osborn-eng
