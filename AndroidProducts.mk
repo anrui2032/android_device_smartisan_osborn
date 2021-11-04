@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_osborn.mk
+
+COMMON_LUNCH_CHOICES := \
+    aosp_osborn-user \
+    aosp_osborn-userdebug \
+    aosp_osborn-eng
