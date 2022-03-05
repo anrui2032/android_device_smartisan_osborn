@@ -28,9 +28,6 @@ $(call inherit-product, vendor/arrow/config/common.mk)
 DEVICE_MAINTAINER := anrui2032
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.mk.maintainer=XiNGRZ
-
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := arrow_osborn
 PRODUCT_BRAND := SMARTISAN
