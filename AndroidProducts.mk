@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mokee_osborn.mk
+    $(LOCAL_DIR)/aosp_osborn.mk
