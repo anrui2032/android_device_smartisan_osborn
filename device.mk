@@ -21,6 +21,7 @@
 # definition file).
 #
 
+# Inherit from our proprietary files directory.
 $(call inherit-product, vendor/smartisan/osborn/osborn-vendor.mk)
 
 # Inherit from sdm660-common
